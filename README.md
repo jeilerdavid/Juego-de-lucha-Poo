@@ -1,5 +1,4 @@
-# Juego-de-lucha-Poo
-
+# Juego de Lucha Poo
 Estudiante: Jeiler David Medina Zapata, Juan Camilo Contreras Ambuila 
 
 Curso:Ingeniería de Software II
