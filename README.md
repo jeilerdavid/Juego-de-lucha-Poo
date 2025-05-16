@@ -15,7 +15,8 @@ Se aplicaron los siguientes patrones de diseño:
 - Patrón Memento: para guardar y restaurar el estado del juego (vidas de los personajes).
   
 # Diagrama
-![Juego de lucha](https://github.com/user-attachments/assets/8f33f38d-8f32-45c9-8523-49040b328e6e)
+![Juego de lucha](https://github.com/user-attachments/assets/b733b0df-a5b7-4cc6-a4bb-e8565182d87f)
+
 
 
 # Explicación Paso a Paso
