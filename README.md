@@ -15,7 +15,8 @@ Se aplicaron los siguientes patrones de diseño:
 - Patrón Memento: para guardar y restaurar el estado del juego (vidas de los personajes).
   
 # Diagrama
-![Juego de lucha](https://github.com/user-attachments/assets/7bd4b87e-f443-4bc6-b460-02acb4764c3d)
+![Juego de lucha](https://github.com/user-attachments/assets/8f33f38d-8f32-45c9-8523-49040b328e6e)
+
 
 # Explicación Paso a Paso
    
@@ -29,9 +30,9 @@ La clase PersonajeBase es abstracta y contiene los atributos y comportamientos c
 # Clase PersonajeBase y Subclases
 
 Subclases concretas como Guerrero, Mago y Asesino extienden de PersonajeBase e implementan el método habilidadEspecial(), que agrega una característica única por tipo:
-- Guerrero: aumenta el daño mínimo del siguiente ataque.
-- Mago: se cura una cantidad aleatoria de vida.
-- Asesino: cambia la estrategia para hacer daño crítico.
+- Soldado: aumenta el daño mínimo del siguiente ataque.
+- Bruja: se cura una cantidad aleatoria de vida.
+- Dios: cambia la estrategia para hacer daño crítico.
   
 # Métodos principales:
 
