@@ -1,3 +1,0 @@
-interface EstrategiaAtaque {
-    int calcularDano();
-}
