@@ -16,7 +16,7 @@ Patrón Strategy: para representar distintas estrategias de ataque.
 Patrón Memento: para guardar y restaurar el estado del juego (vidas de los personajes).
 
 # Diagrama
-
+![juegolucha3 0 drawio](https://github.com/user-attachments/assets/f0c9d759-c20b-4ece-8bd6-562dc8567ace)
 
 
 # Explicación Paso a Paso
